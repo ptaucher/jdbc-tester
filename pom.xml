@@ -4,7 +4,7 @@
     <groupId>net.pt.jdbc-tester</groupId>
     <artifactId>jdbc-tester</artifactId>
     <packaging>jar</packaging>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
 
     <scm>
         <connection>scm:git:git@github.com:ptaucher/jdbc-tester.git</connection>
